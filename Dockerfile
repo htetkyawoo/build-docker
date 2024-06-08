@@ -1,2 +1,2 @@
 FROM alpine
-RUN echo "Hello from Dockerfile."
+RUN echo "Hello from snabshot branch  Dockerfile."

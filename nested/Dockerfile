@@ -1,2 +1,2 @@
 FROM alpine
-RUN echo "Hello from nest Dockerfile."
+RUN echo "Hello from snabshot branch nest Dockerfile."
